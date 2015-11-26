@@ -7,6 +7,7 @@ importance:
   - txt: Esto es importante.
   - txt: Esto es importante.
   - txt: Esto es importante.
+  - txt: Esto lo puedes modificar en <a href="https://github.com/ciudadanointeligente/AgendaTransparenciaDirectorioLegislativo/blob/gh-pages/_cards/card-04.md">Github</a>
 news:
   - txt: Esto es una noticia.
   - txt: <a href="https://docs.google.com/document/d/1DHA83YUs7igCZUsoAJeaqFIxCfHX1KrRC4fApc5Bci0/edit?usp=sharing" target="_blank">Revisa la minuta </a> de la Fundación sobre el contenido de dicho proyecto.
