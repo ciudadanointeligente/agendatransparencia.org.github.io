@@ -1,13 +1,19 @@
 ---
 layout: card-view
 status: pendiente
-id: 8
-title: Defensor Ciudadano
+id: 08
+title: Example card 8
 importance:
-  - txt: Es necesario contar con una institucionalidad autónoma que cumpla el rol de defensa de los derechos de los ciudadanos frente a los actos de la Administración Pública.
-citizens_cnt: [0,0,0]
-permalink: /defensor-ciudadano.html
-twitter_img: /img/card08.png
+  - txt: Esta es la razón por que es importante
+  - txt: Esta es la razón por que es importante
+  - txt: Esta es la razón por que es importante
+news:
+  - txt: Esta es una noticia
 details: true
+permalink: /example-card8.html
+twitter_img: /img/card08.png
 ---
-* El 4 de diciembre de 2008 el Gobierno ingresó el proyecto de Reforma constitucional que crea la Defensoría de las Personas, boletín Nº 6232-07. <a href="http://camara.cl/pley/pley_detalle.aspx?prmID=6630&prmBL=6232-07" target="_blank">Ver</a>
+
+* Esto es un detalle de la noticia y lo puedes [ver acá](http://camara.cl/pley/pley_detalle.aspx?prmID=10478&prmBL=10055-07)
+* Esto es un detalle de otra noticia y lo puedes [ver acá](http://www.agendadeprobidad.gob.cl/?ver=2291)
+* Esto es un detalle de otra noticia y lo puedes [ver acá](http://www.agendadeprobidad.gob.cl/?ver=2288)

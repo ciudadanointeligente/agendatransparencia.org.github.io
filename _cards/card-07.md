@@ -2,16 +2,18 @@
 layout: card-view
 status: en discusion
 id: 07
-title: Fortalecimiento Institucional de los Gobiernos Municipales 
+title: Example card 7
 importance:
-  - txt: Se requieren normas que incorporen políticas de probidad, restricciones a la contratación de personal en meses anteriores a las campañas políticas, altos estándares de gestión e información financiera (con el debido apoyo del gobierno central en su implementación) y la realización periódica de auditorías por parte de la CGR.
-citizens_cnt: [0,0,0]
+  - txt: Esta es la razón por que es importante
+  - txt: Esta es la razón por que es importante
+  - txt: Esta es la razón por que es importante
+news:
+  - txt: Esta es una noticia
 details: true
-permalink: /fortalecimiento-institucional-de-los-gobiernos-municipales.html
+permalink: /example-card7.html
 twitter_img: /img/card07.png
 ---
 
-* El 19 de mayo de 2015 el Gobierno ingresó el proyecto de ley que Modifica disposiciones aplicables a los funcionarios municipales y entrega nuevas competencias a la Subsecretaría de Desarrollo Regional y Administrativo, boletín Nº 10.057-06. <a href="http://camara.cl/pley/pley_detalle.aspx?prmID=10479&prmBL=10057-06" target="_blank">Ver</a>
-* Lineamientos de uso adecuado de recursos. <a href="http://www.agendadeprobidad.gob.cl/?ver=2268" target="_blank">Ver</a>
-* Modificación de Ordenanza para aprobación de planes de urbanismo. <a href="http://www.agendadeprobidad.gob.cl/?ver=2273" target="_blank">Ver</a>
-* Mensaje para impedir especulación en uso de suelos. <a href="http://www.agendadeprobidad.gob.cl/?ver=2277" target="_blank">Ver</a>
+* Esto es un detalle de la noticia y lo puedes [ver acá](http://camara.cl/pley/pley_detalle.aspx?prmID=10478&prmBL=10055-07)
+* Esto es un detalle de otra noticia y lo puedes [ver acá](http://www.agendadeprobidad.gob.cl/?ver=2291)
+* Esto es un detalle de otra noticia y lo puedes [ver acá](http://www.agendadeprobidad.gob.cl/?ver=2288)

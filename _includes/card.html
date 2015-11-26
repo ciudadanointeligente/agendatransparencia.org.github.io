@@ -58,52 +58,5 @@
         {% endfor %}
       </div>
     {% endif %}
-
-    <div class="support">
-      <div class="row">
-        <div class="col-md-6 counter">
-          <ul class="list-inline citizen-support-{{ card.id }}" >
-            {% for nro in card.citizens_cnt %}
-            <li>{{nro}}</li>
-            {% endfor %}
-          </ul>
-        </div>
-        <div class="col-md-6 align-ciudadanos">
-          Ciudadanos que apoyan la propuesta
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-12">
-          <a id="vote-{{card.id}}" class="btn btn-md btn-success full-width" href="" ng-click="addVote({{card.id}})">Apoyar</a>
-        </div>
-      </div>
-    </div>
   </div>
 </div>
-
-  <script type="text/javascript">
-    $(document).ready(function(){
-      var x = 1;
-      while(x<10) {
-        if( Cookies.get('card-'+x) ) {
-            var card_name = Cookies.get('card-'+x);
-            $('#'+card_name).attr('disabled','disabled');
-            $('#'+card_name).html('Gracias por tu apoyo');
-        }
-        x++;
-      }
-
-      if( $('#cards').length ) {
-        $.get('{{ site.herokuapp }}', function(data){
-          $.each(data, function(k,v){
-              counter_votes(v);
-          })
-        })
-      }
-
-    })
-
-    $(function () {
-      $('[data-toggle="tooltip"]').tooltip()
-    })
-  </script>

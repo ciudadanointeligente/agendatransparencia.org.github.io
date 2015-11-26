@@ -86,33 +86,6 @@
           </div>
         </div><!-- end container -->
       </div><!-- end card-view -->
-
-          <script type="text/javascript">
-            $(document).ready(function(){
-              var x = 1;
-              while(x<10) {
-                if( Cookies.get('card-'+x) ) {
-                    var card_name = Cookies.get('card-'+x);
-                    $('#'+card_name).attr('disabled','disabled');
-                    $('#'+card_name).html('Gracias por tu apoyo');
-                }
-                x++;
-              }
-
-              if( $('#card').length ) {
-                $.get('{{ site.herokuapp }}', function(data){
-                  $.each(data, function(k,v){
-                      counter_votes(v);
-                  })
-                })
-              }
-
-            })
-
-            $(function () {
-              $('[data-toggle="tooltip"]').tooltip()
-            })
-          </script>
     {% include footer.html %}
   </body>
 </html>
