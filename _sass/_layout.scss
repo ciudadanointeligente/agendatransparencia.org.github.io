@@ -1126,6 +1126,9 @@ span.paring {
 .label-aprobada {
   background-color: $blue;
 }
+.label-mision-cumplida {
+  background-color: $blue;
+}
 
 .label-rechazada {
   background-color: $red;
@@ -1136,6 +1139,9 @@ span.paring {
   background-color: $darkgrey;
 }
 
+.label-estancado {
+  background-color: $darkgrey;
+}
 .urgency {
   float: left;
 }

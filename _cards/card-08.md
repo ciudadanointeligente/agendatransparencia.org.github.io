@@ -1,6 +1,6 @@
 ---
 layout: card-view
-status: pendiente
+status: Pendiente
 id: 08
 title: Example card 8
 importance:

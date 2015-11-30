@@ -1,6 +1,6 @@
 ---
 layout: card-view
-status: pendiente
+status: En Discusión
 id: 04
 title: Example card 4
 importance:

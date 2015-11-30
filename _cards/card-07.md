@@ -1,6 +1,6 @@
 ---
 layout: card-view
-status: en discusion
+status: Estancado
 id: 07
 title: Example card 7
 importance:

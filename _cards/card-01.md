@@ -1,6 +1,6 @@
 ---
 layout: card-view
-status: en discusion
+status: En Discusión
 id: 01
 title: Example card 1
 importance:

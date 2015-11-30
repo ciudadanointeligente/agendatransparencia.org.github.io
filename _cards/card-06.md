@@ -1,6 +1,6 @@
 ---
 layout: card-view
-status: en discusion
+status: Misión Cumplida
 id: 06
 title: Example card 6
 importance:

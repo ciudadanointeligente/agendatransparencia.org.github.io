@@ -11,20 +11,20 @@
 
     <ul class="list-inline status text-right">
       <li>
-        {% if card.status == 'en discusion' %}
-          <span data-toggle="tooltip" title="El Congreso está discutiendo esta propuesta." data-placement="left" class="label label-{{ card.status | replace:' ','-' }}">{{ card.status }}</span>
+        {% if card.status == 'En Discusión' %}
+          <span data-toggle="tooltip" title="El Congreso está discutiendo esta propuesta." data-placement="left" class="label label-en-discusion">{{ card.status }}</span>
         {% endif %}
-        {% if card.status == 'pendiente' %}
-          <span data-toggle="tooltip" title="El Congreso aún no comienza a discutir esta propuesta o parte importante de ella." data-placement="left" class="label label-{{ card.status | replace:' ','-' }}">{{ card.status }}</span>
+        {% if card.status == 'Estancado' %}
+          <span data-toggle="tooltip" title="El Congreso aún no comienza a discutir esta propuesta o parte importante de ella." data-placement="left" class="label label-estancado">{{ card.status }}</span>
         {% endif %}
-        {% if card.status == 'aprobada' %}
-          <span data-toggle="tooltip" title="El Congreso ya discutió y aprobó esta propuesta." data-placement="left" class="label label-{{ card.status | replace:' ','-' }}">{{ card.status }}</span>
+        {% if card.status == 'Misión Cumplida' %}
+          <span data-toggle="tooltip" title="El Congreso ya discutió y aprobó esta propuesta." data-placement="left" class="label label-mision-cumplida">{{ card.status }}</span>
         {% endif %}
-        {% if card.status == 'rechazada' %}
-          <span data-toggle="tooltip" title="El Congreso está discutiendo esta propuesta." data-placement="left" class="label label-{{ card.status | replace:' ','-' }}">{{ card.status }}</span>
+        {% if card.status == 'Pendiente' %}
+          <span data-toggle="tooltip" title="El Congreso está discutiendo esta propuesta." data-placement="left" class="label label-pendiente">{{ card.status }}</span>
         {% endif %}
-        {% if card.status == 'aprobada parcialmente' %}
-          <span data-toggle="tooltip" title="El Congreso discutió esta propuesta y la aprobó parcialmente." data-placement="left" class="label label-{{ card.status | replace:' ','-' }}">{{ card.status }}</span>
+        {% if card.status == 'Aprobada Parcialmente' %}
+          <span data-toggle="tooltip" title="El Congreso discutió esta propuesta y la aprobó parcialmente." data-placement="left" class="label label-parcial">{{ card.status }}</span>
         {% endif %}
       </li>
     </ul>
