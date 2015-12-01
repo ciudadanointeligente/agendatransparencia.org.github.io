@@ -20,22 +20,43 @@ layout: default
 
 <section id="cards" ng-app="atransparenciaApp">
   <div class="container" ng-controller="AddVotesCtrl">
-    <div class="row masonry-container">
+    
 
       {% for card in site.cards %}
+          {% assign modulo3 = forloop.index | modulo:3 %}
+          {% if forloop.first == true %}
+          <div class="row">
+          {% endif %}
+          
           {% include card.html %}
+          {% if modulo3 == 0 %}
+            {% if forloop.first == false %}
+            </div>
+            <div class="row">
+            {% endif %}
+          {% endif %}
+          {% if forloop.last %}
+          </div>
+          {% endif %}
       {% endfor %}
       
-    </div>
   </div>
 </section>
 
 <script type="">
-  var $container = $('.masonry-container');
-    $container.imagesLoaded( function () {
-      $container.masonry({
-        columnWidth: '.item',
-        itemSelector: '.item'
-      });   
-    });
+  // $(function(){
+  //   var $container = $('.masonry-container');
+  //     $container.imagesLoaded( function () {
+  //       $container.masonry({
+  //         columnWidth: '.item',
+  //         itemSelector: '.item'
+  //       });
+  //     });
+  //     $('.item-card').bind('show.bs.collapse', function(event, ui) {
+  //         $container.masonry({
+  //           columnWidth: '.item',
+  //           itemSelector: '.item'
+  //         });
+  //     });
+  // })
 </script>
