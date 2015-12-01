@@ -50,10 +50,10 @@
       {% endfor %}
     </div>
 
-    {% if card.news %}
+    {% if card.proposals %}
       <div class="news">
-        <h5>¿Qué esta pasando?</h5>
-        {% for quote in card.news %}
+        <h5>¿Qué proponemos?</h5>
+        {% for quote in card.proposals %}
           <blockquote>{{ quote.txt }}</blockquote>
         {% endfor %}
       </div>

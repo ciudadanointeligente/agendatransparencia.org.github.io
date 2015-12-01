@@ -8,8 +8,10 @@ importance:
   - txt: Esta es la razón por que es importante
   - txt: Esta es la razón por que es importante
   - txt: Esto lo puedes modificar en <a href="https://github.com/ciudadanointeligente/AgendaTransparenciaDirectorioLegislativo/blob/gh-pages/_cards/card-03.md">Github</a>
-news:
-  - txt: Esta es una noticia
+proposals:
+  - txt: Esta es una propuesta
+  - txt: Esta es una propuesta
+  - txt: Esta es una propuesta
 details: true
 permalink: /example-card3.html
 twitter_img: /img/card03.png
