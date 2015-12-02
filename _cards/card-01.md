@@ -2,7 +2,7 @@
 layout: card-view
 status: En Discusión
 id: 01
-title: Ley de Aceso a la Informaócin ublica
+title: Ley de Aceso a la Informacion Pública
 importance:
   - txt: Argentina es uno de los 4 países de América Latina que aún no cuenta con una Ley Nacional de Acceso a la Información Pública.
   - txt: El acceso a la información pública es un Derecho Humano, reconocido en tratados internacionales suscritos por la Argentina, y en la propia Constitución Nacional.
