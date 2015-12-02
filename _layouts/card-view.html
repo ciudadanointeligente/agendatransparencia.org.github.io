@@ -3,7 +3,7 @@
   {% include head-tw.html %}
   <body>
     {% include header.html %}
-    <div id="card" class="card-view" ng-app="atransparenciaApp" ng-controller="AddVotesCtrl">
+    <div id="card" class="card-view">
       <div class="container">
           <div class="col-md-12 item">
             <div class="box">
@@ -72,11 +72,6 @@
                     <div class="row">
                       <div class="col-md-12 align-ciudadanos">
                         Ciudadanos que apoyan la propuesta
-                      </div>
-                    </div>
-                    <div class="row">
-                      <div class="col-md-12">
-                        <a id="vote-{{page.id}}" class="btn btn-md btn-success full-width" href="" ng-click="addVote({{page.id}})">Apoyar</a>
                       </div>
                     </div>
                   </div>
