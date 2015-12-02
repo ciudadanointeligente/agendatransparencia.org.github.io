@@ -15,7 +15,7 @@ proposals:
   - txt: Contar con obligaciones de transparencia activa para la publicación y difusión de información pública.
   - txt: Implementación de políticas de transparencia activa y producción de información accesible. 
 details: true
-permalink: /example-card1.html
+permalink: /ley-acceso.html
 twitter_img: /img/card01.png
 ---
 
