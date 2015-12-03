@@ -18,7 +18,7 @@ body {
     line-height: $base-line-height;
     font-weight: 300;
     color: $darkgrey;
-    background-color: $lightgrey;
+    background-color: $darkblue;
     -webkit-text-size-adjust: 100%;
 }
 
@@ -67,11 +67,11 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $purple;
+    color: $green;
     text-decoration: none;
 
     &:visited {
-        color: $darkpurple;
+        color: $green;
     }
 
     &:hover {
@@ -103,7 +103,7 @@ code {
     font-size: 15px;
     border: 1px solid $lightgrey;
     border-radius: 3px;
-    background-color: #eef;
+    background-color: $darkblue;
 }
 
 code {
