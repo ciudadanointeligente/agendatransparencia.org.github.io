@@ -44,7 +44,7 @@ h4, .h4 {
  }
 
  a:hover, a:visited, a:active {
-  color: $darkpurple;
+  color: $green;
  }
 
  input {
@@ -703,7 +703,7 @@ a.btn {
 }
 
 .btn-success {
-  background: $red;
+  background: $green;
   border: none;
 }
 
@@ -711,7 +711,7 @@ a.btn {
   color: #ffffff;
   border: none;
   border-color: none;
-  background: $blue;
+  background: $red;
 }
 .btn-primary {
   background: $blue;
@@ -1078,7 +1078,7 @@ span.paring {
 }
 
 .news {
-  background-color: $blue;
+  background-color: $green;
   padding: 15px;
   color: #FFFFFF;
 }
@@ -1109,14 +1109,14 @@ span.paring {
 }
 
 .label-en-discusion {
-  background-color: $yellow;
+  background-color: $purple;
 }
 
 .label-aprobada {
-  background-color: $orange;
+  background-color: $green;
 }
 .label-mision-cumplida {
-  background-color: $orange;
+  background-color: $green;
 }
 
 .label-rechazada {
@@ -1129,7 +1129,7 @@ span.paring {
 }
 
 .label-estancado {
-  background-color: $blue;
+  background-color: $orange;
 }
 .urgency {
   float: left;
