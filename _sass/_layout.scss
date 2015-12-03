@@ -40,7 +40,7 @@ h4, .h4 {
  }
 
  a{
-  color: $purple;
+  color: $green;
  }
 
  a:hover, a:visited, a:active {
@@ -703,30 +703,16 @@ a.btn {
 }
 
 .btn-success {
-  background: #bd10e0; /* Old browsers */
-  background: -moz-linear-gradient(-45deg,  #bd10e0 0%, #f55923 100%); /* FF3.6+ */
-  background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#bd10e0), color-stop(100%,#f55923)); /* Chrome,Safari4+ */
-  background: -webkit-linear-gradient(-45deg,  #bd10e0 0%,#f55923 100%); /* Chrome10+,Safari5.1+ */
-  background: -o-linear-gradient(-45deg,  #bd10e0 0%,#f55923 100%); /* Opera 11.10+ */
-  background: -ms-linear-gradient(-45deg,  #bd10e0 0%,#f55923 100%); /* IE10+ */
-  background: linear-gradient(135deg,  #bd10e0 0%,#f55923 100%); /* W3C */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bd10e0', endColorstr='#f55923',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+  background: $green;
   border: none;
 }
 
 .btn-success:hover {
   color: #ffffff;
+  border: none;
   border-color: none;
-  background: #bd10e0; /* Old browsers */
-  background: -moz-linear-gradient(-45deg,  #bd10e0 0%, #f55923 70%); /* FF3.6+ */
-  background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#bd10e0), color-stop(70%,#f55923)); /* Chrome,Safari4+ */
-  background: -webkit-linear-gradient(-45deg,  #bd10e0 0%,#f55923 70%); /* Chrome10+,Safari5.1+ */
-  background: -o-linear-gradient(-45deg,  #bd10e0 0%,#f55923 70%); /* Opera 11.10+ */
-  background: -ms-linear-gradient(-45deg,  #bd10e0 0%,#f55923 70%); /* IE10+ */
-  background: linear-gradient(135deg,  #bd10e0 0%,#f55923 70%); /* W3C */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bd10e0', endColorstr='#f55923',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+  background: $blue;
 }
-
 .btn-primary {
   background: $blue;
   border: none;
@@ -1076,14 +1062,14 @@ span.paring {
 /* Chrome, Safari, Opera */
 @-webkit-keyframes border-color {
     0%   {border-color: $red}
-    50%  {border-color: $purple}
+    50%  {border-color: $yellow}
     100%   {border-color: $red}
 }
 
 /* Standard syntax */
 @keyframes border-color {
     0%   {border-color: $red}
-    50%  {border-color: $purple}
+    50%  {border-color: $yellow}
     100%   {border-color: $red}
 }
 
@@ -1092,7 +1078,7 @@ span.paring {
 }
 
 .news {
-  background-color: $blue;
+  background-color: $green;
   padding: 15px;
   color: #FFFFFF;
 }
@@ -1123,14 +1109,14 @@ span.paring {
 }
 
 .label-en-discusion {
-  background-color: $purple;
+  background-color: $yellow;
 }
 
 .label-aprobada {
-  background-color: $blue;
+  background-color: $green;
 }
 .label-mision-cumplida {
-  background-color: $blue;
+  background-color: $green;
 }
 
 .label-rechazada {
@@ -1139,11 +1125,11 @@ span.paring {
 
 
 .label-pendiente {
-  background-color: $darkgrey;
+  background-color: $red;
 }
 
 .label-estancado {
-  background-color: $darkgrey;
+  background-color: $blue;
 }
 .urgency {
   float: left;
@@ -1158,14 +1144,14 @@ span.paring {
 /* Chrome, Safari, Opera */
 @-webkit-keyframes change-width {
     0%   {background-color: $red}
-    50%  {background-color: $purple}
+    50%  {background-color: $yellow}
     100%   {background-color: $red}
 }
 
 /* Standard syntax */
 @keyframes change-width {
     0%   {background-color: $red}
-    50%  {background-color: $purple}
+    50%  {background-color: $yellow}
     100%   {background-color: $red}
 }
 
