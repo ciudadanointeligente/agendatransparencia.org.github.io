@@ -703,7 +703,7 @@ a.btn {
 }
 
 .btn-success {
-  background: $green;
+  background: $red;
   border: none;
 }
 
@@ -959,7 +959,7 @@ img.chamber {
 }
 span.positive {
   width: 60px;
-  background-color: green;
+  background-color: blue;
   height: 60px;
   z-index: 3;
   display: block;
@@ -1062,14 +1062,14 @@ span.paring {
 /* Chrome, Safari, Opera */
 @-webkit-keyframes border-color {
     0%   {border-color: $red}
-    50%  {border-color: $yellow}
+    50%  {border-color: $red}
     100%   {border-color: $red}
 }
 
 /* Standard syntax */
 @keyframes border-color {
     0%   {border-color: $red}
-    50%  {border-color: $yellow}
+    50%  {border-color: $red}
     100%   {border-color: $red}
 }
 
@@ -1078,7 +1078,7 @@ span.paring {
 }
 
 .news {
-  background-color: $green;
+  background-color: $blue;
   padding: 15px;
   color: #FFFFFF;
 }
@@ -1144,14 +1144,14 @@ span.paring {
 /* Chrome, Safari, Opera */
 @-webkit-keyframes change-width {
     0%   {background-color: $red}
-    50%  {background-color: $yellow}
+    50%  {background-color: $red}
     100%   {background-color: $red}
 }
 
 /* Standard syntax */
 @keyframes change-width {
     0%   {background-color: $red}
-    50%  {background-color: $yellow}
+    50%  {background-color: $red}
     100%   {background-color: $red}
 }
 
