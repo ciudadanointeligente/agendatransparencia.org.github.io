@@ -7,11 +7,13 @@ Consideramos que es indispensable reformar del sistema integral de transparencia
 
 Creemos que estas cuestiones identificadas en este documento son prioritarias y se debe avanzar de forma urgente para ello, pero no son las 12 únicas temáticas en las que se debe avanzar, ni implica que no existan otras cuestiones en materia de transparencia y acceso a la información pública en las que se debe dar una reforma estructural.
 
+
+
 La puedes modificar en el siguiente link [https://github.com/ciudadanointeligente/AgendaTransparenciaDirectorioLegislativo/blob/gh-pages/_includes/quienes-somos.md](https://github.com/ciudadanointeligente/AgendaTransparenciaDirectorioLegislativo/blob/gh-pages/_includes/quienes-somos.md)
 
 <ul class="list-inline">
-  <li><img src="//placehold.it/200x200"></li>
-  <li><img src="//placehold.it/200x200"></li>
-  <li><img src="//placehold.it/200x200"></li>
-  <li><img src="//placehold.it/200x200"></li>
+	<li><img src="{{ site.baseurl }}/img/logos-ata/ACIJ_logo.jpg"></li>
+	<li><img src="{{ site.baseurl }}/img/logos-ata/ADC_logo.jpg"></li>
+	<li><img src="{{ site.baseurl }}/img/logos-ata/FDL_logo.PNG"></li>
+	<li><img src="{{ site.baseurl }}/img/logos-ata/PC_logo.jpg"></li>
 </ul>
