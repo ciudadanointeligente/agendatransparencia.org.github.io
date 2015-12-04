@@ -1,6 +1,7 @@
 ---
 layout: card-view
 status: Urgente
+urgency: urgente
 id: 01
 title: Ley de Aceso a la Informacion Pública
 importance:
