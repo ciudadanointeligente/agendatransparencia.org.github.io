@@ -5,9 +5,9 @@ description: Descubre y fiscaliza las 9 medidas de la AgendaTransparencia que es
 baseurl: '//agendatransparencia.org' #example: '/agendatransparencia'
 basedomain: agendatransparencia.org #ciudadanointeligente.github.io
 analytics: 'UA-41822715-6'
-texto_introductorio: Estas son las 9 propuestas clave de la agenda transparencia
-texto_que_remata: en riesgo de no convertirse en ley
-texto_bajada: 'Descubre por qué debemos aprobarlas, en qué está su discusión y apoya las medidas que te parezcan importantes.'
+texto_introductorio: Estas son las 12 propuestas para una
+texto_que_remata:  Agenda de Transparencia para Argentina
+texto_bajada: 'Nuestras 12 propuestas de reforma necesarias para avanzar hacia sistema político más democrático.'
 
 # social
 hashtag: AgendaTransparencia
