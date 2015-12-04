@@ -19,7 +19,7 @@ details: true
 permalink: /ley-acceso.html
 twitter_img: /img/card01.png
 ---
-
+* El [Decreto 1172/03](http://www.infoleg.gob.ar/infolegInternet/anexos/90000-94999/90763/norma.htm) de Acceso a la Información Pública, sólo abarca al Poder Ejecutivo Nacional y no se cumple en su totalidad.
 * Instructivo de Acceso a la Información Pública [ver acá](http://poderciudadano.org/wp-content/uploads/2015/10/Acceso-a-la-informaci%C3%B3n-Instructivo.pdf)
 * Esto es un detalle de otra noticia y lo puedes [ver acá](http://www.agendadeprobidad.gob.cl/?ver=2291)
 * Esto es un detalle de otra noticia y lo puedes [ver acá](http://www.agendadeprobidad.gob.cl/?ver=2288)
