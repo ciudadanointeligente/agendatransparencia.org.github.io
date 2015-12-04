@@ -1,6 +1,6 @@
 ---
 layout: card-view
-status: En Discusión
+status: Urgente
 id: 01
 title: Ley de Aceso a la Informacion Pública
 importance:
