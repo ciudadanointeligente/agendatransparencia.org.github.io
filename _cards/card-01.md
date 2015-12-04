@@ -7,7 +7,7 @@ title: Ley de Aceso a la Informacion Pública
 importance:
   - txt: Argentina es uno de los 4 países de América Latina que aún no cuenta con una Ley Nacional de Acceso a la Información Pública.
   - txt: El acceso a la información pública es un Derecho Humano, reconocido en tratados internacionales suscritos por la Argentina, y en la propia Constitución Nacional.
-  - txt: Sin libre acceso a la información pública no puede haber rendición de cuentas ni un efectivo control de parte de la ciudadanía.
+  - txt: Sin libre acceso a la información pública no puede haber rendición de cuentas ni un efectivo control de la ciudadanía sobre sus gobernantes.
   - txt: Es considerado un “derecho llave”, que permite el acceso a otros derechos fundamentales (como salud, educación y vivienda, entre otros).
 proposals:
   - txt: Sanción de una Ley Nacional de Acceso a la Información Pública, que respete los estándares internacionales en la materia.
