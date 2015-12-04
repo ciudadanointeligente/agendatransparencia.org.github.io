@@ -2,21 +2,20 @@
 layout: card-view
 status: Pendiente
 id: 12
-title: https://github.com/ciudadanointeligente/AgendaTransparenciaDirectorioLegislativo/blob/gh-pages/_cards/card-12.md
+title: Transparencia Presupuestaria
 importance:
-  - txt: Esta es la razón por que es importante
-  - txt: Esta es la razón por que es importante
-  - txt: Esta es la razón por que es importante
-  - txt: Esto lo puedes modificar en <a href="https://github.com/ciudadanointeligente/AgendaTransparenciaDirectorioLegislativo/blob/gh-pages/_cards/card-12.md">Github</a>
+  - txt: La falta de transparencia presupuestaria dificulta conocer en qué gasta los recursos el Estado.
+  - txt: Todas las etapas del ciclo presupuestario (elaboración, aprobación, ejecución y control) son realizadas sin participación ciudadana, y la información publicada en cada una de ellas es limitada y poco accesible.
+  - txt: Todas las etapas del ciclo presupuestario (elaboración, aprobación, ejecución y control) son realizadas sin participación ciudadana, y la información publicada en cada una de ellas es limitada y poco accesible.
+  - txt: La Ley de Administración Financiera faculta al Jefe de Gabinete de Ministros de la Nación a reasignar partidas presupuestarias, lo cual permite al Poder Ejecutivo decidir discrecionalmente el gasto, ignorando lo decidido por el Congreso.
 proposals:
-  - txt: Esta es una propuesta
-  - txt: Esta es una propuesta
-  - txt: Esta es una propuesta
+  - txt: Reforma de la Ley de Administración financiera y eliminar las facultades de reasignación presupuestaria del Jefe de Gabinete de Ministros
+  - txt: Sanción de una Ley Marco de transparencia presupuestaria, que establezca; altos niveles de desagregación del presupuesto; mecanismos para el acceso libre y amigable a información presupuestaria; mecanismos de participación directa de la sociedad civil en las cuatro etapas del ciclo presupuestario. 
 details: true
-permalink: /example-card12.html
+permalink: /transparencia-presupuestaria.html
 twitter_img: /img/card12.png
 ---
 
-* Esto es un detalle de la noticia y lo puedes [ver acá](http://camara.cl/pley/pley_detalle.aspx?prmID=10478&prmBL=10095-07)
-* Esto es un detalle de otra noticia y lo puedes [ver acá](http://www.agendadeprobidad.gob.cl/?ver=2291)
-* Esto es un detalle de otra noticia y lo puedes [ver acá](http://www.agendadeprobidad.gob.cl/?ver=2288)
+* Presupuesto y Derechos Humanos - ACIJ [ver acá](http://acij.org.ar/presupuesto-y-derechos-humanos/)
+* Presupuesto y Derechos Humanos - ACIJ (video) [ver acá](https://www.youtube.com/watch?v=wtit2aI1nsg)
+* Manuel Garrido (Dip Nac - MC) - video [ver acá](https://www.youtube.com/watch?v=yXK71aK6omA)
