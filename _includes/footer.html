@@ -1,24 +1,42 @@
 <footer>
   <div class="container">
     <div class="row">
-      <div class="col-md-4">
+      <div class="col-md-5"></div>
+      <div class="col-md-2">Un proyecto de:</div>
+      <div class="col-md-5"></div></div>
+    <div class="row">
+      <div class="col-md-2">
         <ul class="list-unstyled">
-          <li><a href="mailto:prensa@ciudadanointeligente.org?Subject=Prensa%20de%20agendatransparencia.cl" class="email-prensa" target="_top"><i class="fa fa-envelope-o"></i> Mail de contacto</a></li>
-          <li><a href="//eepurl.com/3qrNj" class="email-prensa"><i class="fa fa-newspaper-o"></i> Suscríbete a nuestro newsletter</a></li>
+          <li><a href="mailto:{{ site.email }}?Subject={{ site.email_subject | url_param_escape}}" class="email-prensa" target="_top"><i class="fa fa-envelope-o"></i> Mail de contacto</a></li>
         </ul>
       </div>
-      <div class="col-md-4 logo-fci">
+          <div class="col-md-2"><img src="{{ site.baseurl }}/img/logos-ata/ACIJ_logo.jpg"></div>
+          <div class="col-md-2"><img src="{{ site.baseurl }}/img/logos-ata/ADC_logo.jpg"></div>
+          <div class="col-md-2"><img src="{{ site.baseurl }}/img/logos-ata/FDL_logo.PNG"></div>
+          <div class="col-md-2"><img src="{{ site.baseurl }}/img/logos-ata/PC_logo.jpg"></div>
+     
+      <div class="col-md-2">
         <ul class="list-unstyled">
+          <li><a href="//github.com/ciudadanointeligente/AgendaTransparenciaDirectorioLegislativo" target="_blank"><i class="fa fa-github-alt"></i>  Revisa el código en Github</a></li>
+        </ul>
+      </div>
+      </div>
+    </div>
+    <div class="row">
+
+      <div class="col-md-5">
+        
+      </div>
+      <div class="col-md-2 logo-fci">
+        <ul class="list-unstyled">
+          Desarrollado por:
           <li>
-            Desarrollado por <a href="//ciudadanointeligente.org/" target="_blank"><img src="{{ site.baseurl }}/img/logo-ciudadanoi.png" title="Fundación Ciudadano Inteligente"></a>
+            <a href="//ciudadanointeligente.org/" target="_blank"><img src="{{ site.baseurl }}/img/logo-ciudadanoi.png" title="Fundación Ciudadano Inteligente"></a>
           </li>
         </ul>
       </div>
-      <div class="col-md-4 text-right">
-        <ul class="list-unstyled">
-          <li><a href="//github.com/ciudadanointeligente/agendatransparencia" target="_blank"><i class="fa fa-github-alt"></i>  Revisa el código en Github</a></li>
-        </ul>
-      </div>
+      <div class="col-md-5 text-right">
+        
     </div>
   </div>
 </footer>
