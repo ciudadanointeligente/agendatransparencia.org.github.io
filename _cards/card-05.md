@@ -10,6 +10,8 @@ importance:
   - txt: Las investigaciones de delitos de corrupción no son de libre acceso a la ciudadanía, y no se admite que las organizaciones de la sociedad civil actúen como querellantes.
   - txt: Se encuentran vacantes los cargos de fiscales generales y auxiliares que colaboran con la Fiscalía de Investigaciones Administrativas.
   - txt: La Oficina Anticorrupción no goza de autonomía funcional ni autarquía financiera, lo cual impacta negativamente en su independencia del Poder Ejecutivo, al que debe investigar. 
+  - txt: No existe en la actualidad un sistema Nacional de protección de denunciantes, testigos, víctimas e informantes de actos de corrupción que les brinde seguridad física y jurídica. 
+  - txt: No se encuentra prevista la figura del arrepentido o colaborador eficaz en casos de corrupción, siendo de suma importancia para evitar la consumación o continuación de este tipo de delitos, o para revelar la identidad de coautores, partícipes o encubridores de los hechos investigados.
 proposals:
   - txt: Reforma del régimen de declaraciones juradas para mejorar la cantidad y calidad de información accesible por la ciudadanía.
   - txt: Implementación de la accesibilidad online de las declaraciones juradas en los tres poderes del Estado.
