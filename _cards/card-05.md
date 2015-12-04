@@ -15,6 +15,8 @@ proposals:
   - txt: Implementación de la accesibilidad online de las declaraciones juradas en los tres poderes del Estado.
   - txt: Sanción de la Ley de implementación del Código Procesal Penal de la Nación en la Justicia Federal.
   - Reforma del Código Procesal Penal de la Nación que faculte a las organizaciones de la sociedad civil actuar como querellantes en investigaciones sobre corrupción. 
+  - txt: Inclusiòn en el Programa de Protección de Testigos y denunciantes los casos de delitos contra la administración pública.
+  - txt: Incorporación de la figura del arrepentido en la legislación nacional .
   - txt: Reforma de la Oficina Anticorrupción, a fin de dotarla de autonomía funcional y autarquía financiera. 
   - txt: Nombramiento de los fiscales adjuntos de la Procuraduría de Investigaciones Administrativas.
 details: true
