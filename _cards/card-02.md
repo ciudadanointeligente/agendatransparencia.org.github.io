@@ -4,7 +4,7 @@ status: Pendiente
 id: 02
 title: Independencia del Poder Judicial
 importance:
-  - txt: La integración actual del Consejo de la Magistratura es desequilibrada, permitiendo la preeminencia de un sector sobre el resto, controlando el organismo
+  - txt: La integración actual del Consejo de la Magistratura es desequilibrada, permitiendo la preeminencia de un sector sobre el resto, controlando el organismo.
   - txt: Esta situación genera muchas veces discrecionalidades y cuestionamientos en el proceso de designación de jueces, dependiendo los nombramientos del poder político de turno.
   - txt: El régimen de procesos disciplinarios es una herramienta importante para controlar el desempeño de los jueces, pero la falta de transparencia vigente admite su utilización para presionar a los jueces. 
   - txt: La generación de instancias de participación ciudadana, acceso a la información y rendición de cuentas en el ámbito judicial contribuye a una mayor transparencia y, por lo tanto, a una mayor independencia. 
@@ -14,7 +14,7 @@ proposals:
   - txt: Sanción de una nueva Ley del Consejo de la Magistratura que garantice una composición equilibrada y ecuanimidad en la representación de partidos políticos. 
   - txt: Reincorporación de las segundas minorías e incorporación de representantes del estamento de abogados y académicos. 
   - txt: Sanción de un Código de Ética Judicial. 
-  -txt: Ampliación de los mecanismos de participación ciudadana en la justicia, como las audiencias públicas y los amicus curiae. 
+  - txt: Ampliación de los mecanismos de participación ciudadana en la justicia, como las audiencias públicas y los amicus curiae. 
   - txt: Transferencia de la administración de los fondos del Poder Judicial al Consejo de la Magistratura, como establece el art. 114 inc. 3 de la CN. 
   - txt: Ampliación del control externo del Consejo de la Magistratura por la AGN. 
 details: true
