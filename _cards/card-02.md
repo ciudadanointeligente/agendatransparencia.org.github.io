@@ -22,5 +22,5 @@ permalink: /independencia-judicial.html
 twitter_img: /img/card03.png
 ---
 * Documento fundacional Coalición para la Independencia Judicial [ver acá](http://www.adc.org.ar/wp-content/uploads/2015/06/Coalici%C3%B3n-para-la-Independencia-Judicial.-Documento-fundacional.pdf)
-* Esto es un detalle de otra noticia y lo puedes [ver acá](http://www.agendadeprobidad.gob.cl/?ver=2291)
-* Esto es un detalle de otra noticia y lo puedes [ver acá](http://www.agendadeprobidad.gob.cl/?ver=2288)
+* Coalición para la Independencia Judicial [ver acá](https://www.facebook.com/CoalicionIndependenciaJudicial/?fref=ts)
+* Campaña por una Reforma Judicial en 2013 [ver acá](http://acij.org.ar/reformajudicial/)
