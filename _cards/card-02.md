@@ -13,14 +13,14 @@ proposals:
   - txt: Integración de las dos vacantes de la Corte Suprema de Justicia de la Nación mediante el proceso participativo previsto en el Decreto 222/03.
  - txt: Sanción de una nueva Ley del Consejo de la Magistratura que garantice una composición equilibrada y ecuanimidad en la representación de partidos políticos. 
  - txt: Reincorporación de las segundas minorías e incorporación de representantes del estamento de abogados y académicos. 
- - txt:
- - txt: 
- - txt: 
+ - txt: Sanción de un Código de Ética Judicial. 
+ - txt: Ampliación de los mecanismos de participación ciudadana en la justicia, como las audiencias públicas y los amicus curiae. 
+ - txt: Transferencia de la administración de los fondos del Poder Judicial al Consejo de la Magistratura, como establece el art. 114 inc. 3 de la CN. 
+ - txt: Ampliación del control externo del Consejo de la Magistratura por la AGN. 
 details: true
 permalink: /independencia-judicial.html
 twitter_img: /img/card03.png
 ---
-
 * Documento fundacional Coalición para la Independencia Judicial [ver acá](http://www.adc.org.ar/wp-content/uploads/2015/06/Coalici%C3%B3n-para-la-Independencia-Judicial.-Documento-fundacional.pdf)
 * Esto es un detalle de otra noticia y lo puedes [ver acá](http://www.agendadeprobidad.gob.cl/?ver=2291)
 * Esto es un detalle de otra noticia y lo puedes [ver acá](http://www.agendadeprobidad.gob.cl/?ver=2288)
