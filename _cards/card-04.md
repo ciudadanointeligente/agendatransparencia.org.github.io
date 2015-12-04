@@ -7,7 +7,6 @@ importance:
   - txt: La discrecionalidad en el reparto publicitario incentiva un sistema de premios/castigos mediante el cual el gobierno de turno beneficia a medios afines y penaliza a los que considera “opositores”. Esto constituye una amenaza la libertad de expresión.
   - txt: Se observa una clara utilización de la publicidad oficial con fines electorales, promoviendo el voto o favoreciendo la imagen de ciertos funcionarios en detrimento de otros. 
   - txt: Esto atenta contra la equidad de la competencia electoral y constituye un claro uso ilegal de los recursos públicos.
-href="https://github.com/ciudadanointeligente/AgendaTransparenciaDirectorioLegislativo/blob/gh-pages/_cards/card-04.md">Github</a>
 proposals:
   - txt: Sanción de una normativa en todos los niveles de gobierno que limite la asignación discrecional de los recursos.
   - txt: Restricción de la publicidad oficial en tiempos de campaña.
