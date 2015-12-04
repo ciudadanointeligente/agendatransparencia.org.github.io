@@ -10,6 +10,9 @@ Creemos que estas propuestas son las prioritarias para la consolidación y forta
 
 
 
+
+
+
 <ul class="list-inline">
 	<li><img src="{{ site.baseurl }}/img/logos-ata/ACIJ_logo.jpg"></li>
 	<li><img src="{{ site.baseurl }}/img/logos-ata/ADC_logo.jpg"></li>
