@@ -2,21 +2,16 @@
 layout: card-view
 status: Pendiente
 id: 11
-title: https://github.com/ciudadanointeligente/AgendaTransparenciaDirectorioLegislativo/blob/gh-pages/_cards/card-11.md
+title: Reforma del Sistema Nacional de Estadísticas
 importance:
-  - txt: Esta es la razón por que es importante
-  - txt: Esta es la razón por que es importante
-  - txt: Esta es la razón por que es importante
-  - txt: Esto lo puedes modificar en <a href="https://github.com/ciudadanointeligente/AgendaTransparenciaDirectorioLegislativo/blob/gh-pages/_cards/card-11.md">Github</a>
+  - txt: Las estadísticas públicas son insumos esenciales para evaluar el impacto de las políticas públicas, y para que los ciudadanos controlen a sus gobernantes. 
+  - txt: Tras la intervención del Instituto Nacional de Estadísticas y Censos en 2007, se perdieron las garantías de independencia del organismo y las estadísticas públicas perdieron credibilidad.
 proposals:
-  - txt: Esta es una propuesta
-  - txt: Esta es una propuesta
-  - txt: Esta es una propuesta
+  - txt: Reforma de la Ley 17.622 (Ley del INDEC) para dotar al INDEC de autonomía funcional, autarquía financiera y acceso por concurso a los cargos de su estructura.
+  - txt: Publicación de todas las estadísticas e informes en formatos abiertos y reutilizables.
 details: true
-permalink: /example-card11.html
+permalink: /indec.html
 twitter_img: /img/card11.png
 ---
 
-* Esto es un detalle de la noticia y lo puedes [ver acá](http://camara.cl/pley/pley_detalle.aspx?prmID=10478&prmBL=10095-07)
-* Esto es un detalle de otra noticia y lo puedes [ver acá](http://www.agendadeprobidad.gob.cl/?ver=2291)
-* Esto es un detalle de otra noticia y lo puedes [ver acá](http://www.agendadeprobidad.gob.cl/?ver=2288)
+* Actualmente existen proyectos para la reforma de la Ley del INDEC con el fin de dotarlo de independencia, aunque no han sido parte de la agenda parlamentaria. 
