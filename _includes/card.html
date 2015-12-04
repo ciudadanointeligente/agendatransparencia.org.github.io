@@ -23,7 +23,7 @@
         {% if card.status == 'Pendiente' %}
           <span data-toggle="tooltip" title="El Congreso está discutiendo esta propuesta." data-placement="left" class="label label-pendiente">{{ card.status }}</span>
         {% endif %}
-        {% if card.status == 'Aprobada Parcialmente' %}
+        {% if card.status == 'Logrado parcialmente' %}
           <span data-toggle="tooltip" title="El Congreso discutió esta propuesta y la aprobó parcialmente." data-placement="left" class="label label-parcial">{{ card.status }}</span>
         {% endif %}
       </li>
