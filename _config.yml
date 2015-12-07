@@ -5,7 +5,7 @@ email_subject: Prensa de agendatransparencia.org
 description: Descubre y fiscaliza las 9 medidas de la AgendaTransparencia que están en riesgo de no ser ley.
 baseurl: 'http://agendatransparencia.org' #example: '/agendatransparencia'
 basedomain: agendatransparencia.org #ciudadanointeligente.github.io
-analytics: 'UA-41822715-6'
+analytics: 'UA-41822715-10'
 texto_introductorio: Estas son las 12 propuestas para una
 texto_que_remata:  Agenda de Transparencia para Argentina
 texto_bajada: 'Enterate por qué estas 12 políticas de reforma son indispensables para avanzar hacia un sistema político más democrático.'
