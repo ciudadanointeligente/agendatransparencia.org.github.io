@@ -33,25 +33,18 @@
                 {{ page.title }}
                 </h1>
                 <div class="text-left tweet-btn">
-                  <a class="twitter-share-button btn btn-primary btn-xs" onclick="window.open('//twitter.com/intent/tweet?{% if site.twitter_username %}via={{ site.twitter_username }}&{% endif %}url={{ site.baseurl | append: card.permalink | url_param_escape }}&hashtags={{ site.hashtags }}&text={{ site.twitter_txt }} {{ page.title }}','_blank','height=300,width=600')"><i class="fa fa-twitter"></i> Twittea</a>
+                  <a class="twitter-share-button btn btn-primary btn-xs" onclick="window.open('https://twitter.com/intent/tweet?via=ciudadanoi&url=http%3A%2F%2Fagendatransparencia.cl{{ page.permalink }}&text=%20%23LxsCiudadanxsQueremos {{ page.title }}','_blank','height=400,width=300')">Twittea</a>
                 </div>
 
                 <h3>¿Por qué es importante?</h3>
                 {% for quote in page.importance %}
                 <blockquote>{{ quote.txt }}</blockquote>
                 {% endfor %}
-
-                <h3>¿Qué proponemos?</h3>
-                <ul>
-                  {% for p in page.proposals %}
-                  <li>{{ p.txt }}</li>
-                  {% endfor %}
-                </ul>
               </div>
 
               {% if page.news %}
                 <div class="news">
-                  <h3>¿Qué está pasando?</h3>
+                  <h3>¿Qué esta pasando?</h3>
                   {% for quote in page.news %}
                     <blockquote>{{ quote.txt }}</blockquote>
                   {% endfor %}
@@ -60,13 +53,12 @@
 
               <div class="card-description">
                 {% if page.details %}
-                  <h3>Más información</h3>
+                  <h3>Hitos</h3>
                   {{ page.content }}
                 {% endif %}
               </div>
 
-              <!-- support -->
-              {% if site.support_enabled %}
+
               <div class="support">
                 <div class="row">
                   <div class="col-md-3 col-md-offset-3" id="counter">
@@ -85,8 +77,6 @@
                   </div>
                 </div>
               </div>
-              {%  endif %}
-              <!-- end support -->
             </div>
           </div>
         </div><!-- end container -->

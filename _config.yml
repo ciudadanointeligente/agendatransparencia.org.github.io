@@ -1,34 +1,22 @@
 # site settings
 title: Agenda transparencia
-email: prensa@agendatransparencia.org
-email_subject: Prensa de agendatransparencia.org
+email: prensa@ciudadanointeligente.org
 description: Descubre y fiscaliza las 9 medidas de la AgendaTransparencia que están en riesgo de no ser ley.
-baseurl: 'http://agendatransparencia.org' #example: '/agendatransparencia'
-basedomain: agendatransparencia.org #ciudadanointeligente.github.io
-analytics: 'UA-41822715-10'
-texto_introductorio: Estas son las 12 propuestas para una
-texto_que_remata:  Agenda de Transparencia para Argentina
-texto_bajada: 'Enterate por qué estas 12 políticas de reforma son indispensables para avanzar hacia un sistema político más democrático.'
+baseurl: '//argentina.agendatransparencia.cl' #example: '/agendatransparencia'
+basedomain: argentina.agendatransparencia.cl #ciudadanointeligente.github.io
+analytics: 'UA-41822715-6'
 
 # social
-hashtags: "AgendaTransparencia,transparencia"
-twitter_username:
-twitter_txt: '👦👧👨👩👴👵 %23LxsCiudadanxsQueremos'
-
-#support
-support_enabled: false
-
-#partners
-partners: true
+hashtag: AgendaTransparencia
+twitter_username: ciudadanoi
+twitter_txt: 'Yo opino del Informe Anticorrupción lo siguiente...'
 
 # build settings
 markdown: kramdown
 
 #herokuapp
-herokuapp: ''
+herokuapp: '//api.agendatransparencia.cl/proposals'
 
 collections:
   cards:
-    output: true
-  partners:
     output: true

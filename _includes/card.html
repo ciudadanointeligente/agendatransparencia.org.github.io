@@ -23,19 +23,12 @@
         {% if card.status == 'Pendiente' %}
           <span data-toggle="tooltip" title="El Congreso está discutiendo esta propuesta." data-placement="left" class="label label-pendiente">{{ card.status }}</span>
         {% endif %}
-        {% if card.status == 'Logrado parcialmente' %}
+        {% if card.status == 'Aprobada Parcialmente' %}
           <span data-toggle="tooltip" title="El Congreso discutió esta propuesta y la aprobó parcialmente." data-placement="left" class="label label-parcial">{{ card.status }}</span>
         {% endif %}
       </li>
     </ul>
 
-    {% if card.details %}
-      {% if card.title %}
-        <!-- modal -->
-        {% include modal.html %}
-        <!-- end modal -->
-      {% endif %}
-    {% endif %}
 
     <div class="card-description">
       {% if card.details %}
@@ -45,11 +38,14 @@
       {{ card.title }}
       </h3>
       <div class="text-left tweet-btn">
-        <a class="twitter-share-button btn btn-primary btn-xs" onclick="window.open('//twitter.com/intent/tweet?{% if site.twitter_username %}via={{ site.twitter_username }}&{% endif %}url={{ site.baseurl | append: card.permalink | url_param_escape }}&hashtags={{ site.hashtags }}&text={{ site.twitter_txt }} {{ card.title }}','_blank','height=300,width=600')"><i class="fa fa-twitter"></i> Twittea</a>
+        <a class="twitter-share-button btn btn-primary btn-xs" onclick="window.open('https://twitter.com/intent/tweet?via=ciudadanoi&url=http%3A%2F%2Fagendatransparencia.cl{{ card.permalink }}&text=%20%23LxsCiudadanxsQueremos {{ card.title }}','_blank','height=400,width=300')">Twittea</a>
       </div>
-
+      <a class="btn btn-primary" role="button" data-toggle="collapse" href="#collapse-{{ card.id }}" aria-expanded="false" aria-controls="collapseExample">Saber más</a>
       <div class="collapse" id="collapse-{{ card.id }}">
         <div>
+            {% if card.title %}
+            {% include modal.html %}
+            {% endif %}
             <h5>¿Por qué es importante?</h5>
             {% for quote in card.importance %}
             <blockquote>{{ quote.txt }}</blockquote>
@@ -65,10 +61,6 @@
             </div>
           {% endif %}
           </div>
-
-        <div class="text-right btn-knowmore">
-          <a class="btn btn-success" role="button" data-toggle="collapse" href="#collapse-{{ card.id }}" aria-expanded="false" aria-controls="collapseExample">Saber más</a>
-        </div>
       </div>
   </div>
 </div>
