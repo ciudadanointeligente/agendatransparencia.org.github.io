@@ -1055,18 +1055,18 @@ span.paring {
 
 .box.urgente {
   border: 5px solid $red;
-  -webkit-animation: border-color 2s infinite; /* Chrome, Safari, Opera */ 
+  -webkit-animation: border-color 2s infinite; /* Chrome, Safari, Opera */
   animation: border-color 2s infinite;
 }
 
-/* Chrome, Safari, Opera */ 
+/* Chrome, Safari, Opera */
 @-webkit-keyframes border-color {
     0%   {border-color: $red}
     50%  {border-color: $red}
     100%   {border-color: $red}
-} 
+}
 
-/* Standard syntax */ 
+/* Standard syntax */
 @keyframes border-color {
     0%   {border-color: $red}
     50%  {border-color: $red}
@@ -1103,6 +1103,9 @@ span.paring {
 
 .card-description {
   padding: 15px;
+  .btn-knowmore {
+    margin-top: 5px;
+  }
 }
 
 .label-en-discusion {
@@ -1134,18 +1137,18 @@ span.paring {
 
 .label-urgente {
   background-color: $red;
-  -webkit-animation: change-width 2s infinite; /* Chrome, Safari, Opera */ 
+  -webkit-animation: change-width 2s infinite; /* Chrome, Safari, Opera */
   animation: change-width 2s infinite;
 }
 
-/* Chrome, Safari, Opera */ 
+/* Chrome, Safari, Opera */
 @-webkit-keyframes change-width {
     0%   {background-color: $red}
     50%  {background-color: $red}
     100%   {background-color: $red}
-} 
+}
 
-/* Standard syntax */ 
+/* Standard syntax */
 @keyframes change-width {
     0%   {background-color: $red}
     50%  {background-color: $red}
@@ -1275,10 +1278,6 @@ h2.hero {
 .card-view {
   margin: 150px 0 100px;
   position: relative;
-}
-
-.card-view .card-description {
-  padding: 15px 40px;
 }
 
 .card-view .news {

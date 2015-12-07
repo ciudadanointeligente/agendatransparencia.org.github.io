@@ -1,22 +1,20 @@
 ---
 layout: card-view
-status: Pendiente
+status: Estancado
 id: 08
-title: Example card 8
+title: Transparencia del Sistema de Compras y Contrataciones Públicas
 importance:
-  - txt: Esta es la razón por que es importante
-  - txt: Esta es la razón por que es importante
-  - txt: Esta es la razón por que es importante
-  - txt: Esto lo puedes modificar en <a href="https://github.com/ciudadanointeligente/AgendaTransparenciaDirectorioLegislativo/blob/gh-pages/_cards/card-08.md">Github</a>
+  - txt: Existe un abuso en la utilización de mecanismos de compra y contratación alternativo a la licitación pública, como la compra directa. 
+  - txt: Esto hace al sistema poco transparente, al incrementar los niveles de discrecionalidad, reducir la publicidad de los actos y derivar en contrataciones más onerosas.
+  - txt: Aún en los casos de compras y contrataciones mediante licitaciones públicas, no es posible acceder libremente a los contratos suscritos por el Estado.
 proposals:
-  - txt: Esta es una propuesta
-  - txt: Esta es una propuesta
-  - txt: Esta es una propuesta
+  - txt: Reforma del régimen legal de compras y contrataciones de bienes y servicios y de obras públicas, limitando la posibilidad de utilizar mecanismos alternativos a la licitación pública.
+  - txt: Transparencia de la información relativa a contrataciones alternativas, incrementando la publicidad de los expedientes mediante mecanismos sencillos de acceso y visualización que permitan el control.
+  - txt: Publicación online y accesible de todos los contratos suscritos por el Estado en el marco de compras y contrataciones de cualquier bien, servicio u obra. 
 details: true
-permalink: /example-card8.html
+permalink: /compras-y-contrataciones.html
 twitter_img: /img/card08.png
 ---
 
-* Esto es un detalle de la noticia y lo puedes [ver acá](http://camara.cl/pley/pley_detalle.aspx?prmID=10478&prmBL=10055-07)
-* Esto es un detalle de otra noticia y lo puedes [ver acá](http://www.agendadeprobidad.gob.cl/?ver=2291)
-* Esto es un detalle de otra noticia y lo puedes [ver acá](http://www.agendadeprobidad.gob.cl/?ver=2288)
+* Promoviendo compras públicas para el desarrollo - Poder Ciudadano [ver acá](http://poderciudadano.org/wp/wp-content/uploads/2010/09/para-web-informe-completo.pdf)
+* Transparencia y control social en las compras públicas [ver acá](http://poderciudadano.org/sitio/wp-content/uploads/2013/08/TransparenciayControlSocialenlasContratacionesPublicas.pdf)
