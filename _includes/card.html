@@ -38,9 +38,9 @@
       {{ card.title }}
       </h3>
       <div class="text-left tweet-btn">
-        <a class="twitter-share-button btn btn-primary btn-xs" onclick="window.open('https://twitter.com/intent/tweet?via=ciudadanoi&url=http%3A%2F%2Fagendatransparencia.cl{{ card.permalink }}&text=%20%23LxsCiudadanxsQueremos {{ card.title }}','_blank','height=400,width=300')">Twittea</a>
+        <a class="twitter-share-button btn btn-primary btn-xs" onclick="window.open('https://twitter.com/intent/tweet?via={{ site.twitter_username }}&url=http%3A%2F%2F{{ site.basedomain }}{{ card.permalink }}&text=%23LxsCiudadanxsQueremos {{ card.title }}','_blank','height=300,width=600')">Twittea</a>
       </div>
-      <a class="btn btn-primary" role="button" data-toggle="collapse" href="#collapse-{{ card.id }}" aria-expanded="false" aria-controls="collapseExample">Saber más</a>
+
       <div class="collapse" id="collapse-{{ card.id }}">
         <div>
             {% if card.title %}
@@ -61,6 +61,10 @@
             </div>
           {% endif %}
           </div>
+      </div>
+
+      <div class="text-right">
+        <a class="btn btn-default" role="button" data-toggle="collapse" href="#collapse-{{ card.id }}" aria-expanded="false" aria-controls="collapseExample">Saber más</a>
       </div>
   </div>
 </div>

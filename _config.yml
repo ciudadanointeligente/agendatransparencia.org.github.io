@@ -13,7 +13,10 @@ texto_bajada: 'Enterate por qué estas 12 políticas de reforma son indispensabl
 # social
 hashtag: AgendaTransparencia
 twitter_username: ciudadanoi
-twitter_txt: 'Yo opino del Informe Anticorrupción lo siguiente...'
+twitter_txt: '👦👧👨👩👴👵'
+
+#support
+support_enabled: false
 
 # build settings
 markdown: kramdown
