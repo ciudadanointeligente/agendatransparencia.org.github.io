@@ -12,7 +12,7 @@ layout: default
   <h2 class="text-center">{{ site.texto_bajada }}</h2>
   <ul class="share-btn list-inline">
     <li class="text-center">
-      <a class="twitter-share-button btn btn-primary btn-xs" onclick="window.open('https://twitter.com/intent/tweet?{% if site.twitter_username %}via={{ site.twitter_username }}&{% endif %}url={{ site.baseurl | url_param_escape }}&hashtags={{ site.hashtags }}&text={{ site.description }}','_blank','height=300,width=600')"><i class="fa fa-twitter"></i> Twittear</a>
+      <a class="twitter-share-button btn btn-primary btn-xs" onclick="window.open('https://twitter.com/intent/tweet?{% if site.twitter_username %}via={{ site.twitter_username }}&{% endif %}url={{ site.baseurl | url_param_escape }}&hashtags={{ site.hashtags }}&text={{ site.texto_introductorio | append:' ' | append:site.texto_que_remata | truncate: 100 }}','_blank','height=300,width=600')"><i class="fa fa-twitter"></i> Twittear</a>
     </li>
     <li class="fb-share-button" data-href="{{ site.baseurl }}" data-layout="button"></li>
   </ul>

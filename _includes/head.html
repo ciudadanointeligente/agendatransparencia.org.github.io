@@ -4,13 +4,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{{ site.description }}">
+  <meta name="description" content="{{ site.texto_introductorio | append:' ' | append:site.texto_que_remata }}">
 
   <meta property="og:title" content="Agenda transparencia" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="http:{{ site.baseurl }}" />
   <meta property="og:image" content="http:{{ site.baseurl }}/img/facebook-card.png" />
-  <meta property="og:description" content="{{ site.description }}" />
+  <meta property="og:description" content="{{ site.texto_introductorio }} {{ site.texto_que_remata }}" />
 
   <!-- css -->
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">

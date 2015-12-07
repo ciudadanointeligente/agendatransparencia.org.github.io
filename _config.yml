@@ -2,7 +2,6 @@
 title: Agenda transparencia
 email: prensa@agendatransparencia.org
 email_subject: Prensa de agendatransparencia.org
-description: Descubre y fiscaliza las 9 medidas de la AgendaTransparencia que están en riesgo de no ser ley.
 baseurl: 'http://agendatransparencia.org' #example: '/agendatransparencia'
 basedomain: agendatransparencia.org #ciudadanointeligente.github.io
 analytics: 'UA-41822715-10'
