@@ -40,10 +40,14 @@ h4, .h4 {
  }
 
  a{
-  color: $orange;
+  color: $blue;
  }
 
- a:hover, a:visited, a:active {
+ a:visited{
+  color: $blue;
+ }
+
+ a:hover, a:active {
   color: $green;
  }
 
@@ -703,7 +707,7 @@ a.btn {
 }
 
 .btn-success {
-  background: $green;
+  background: $blue;
   border: none;
 }
 
@@ -711,10 +715,18 @@ a.btn {
   color: #ffffff;
   border: none;
   border-color: none;
-  background: $red;
-}
-.btn-primary {
   background: $blue;
+}
+
+.btn-success:active {
+  color: #ffffff;
+  border: none;
+  border-color: none;
+  background: $blue;
+}
+
+.btn-primary {
+  background: #0091EA;
   border: none;
 }
 
@@ -1078,7 +1090,7 @@ span.paring {
 }
 
 .news {
-  background-color: $green;
+  background-color: $blue;
   padding: 15px;
   color: #FFFFFF;
 }
@@ -1108,29 +1120,25 @@ span.paring {
   }
 }
 
-.label-en-discusion {
+
+.label-pendiente {
   background-color: $purple;
 }
-
-.label-aprobada {
-  background-color: $green;
+.label-estancado {
+  background-color: $red;
+}
+.label-en-discusion {
+  background-color: $orange;
+}
+.label-logrado-parcialmente {
+  background-color: $blue;
 }
 .label-mision-cumplida {
   background-color: $green;
 }
 
-.label-rechazada {
-  background-color: $red;
-}
 
 
-.label-pendiente {
-  background-color: $red;
-}
-
-.label-estancado {
-  background-color: $orange;
-}
 .urgency {
   float: left;
 }
