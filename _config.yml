@@ -18,6 +18,9 @@ twitter_txt: '👦👧👨👩👴👵 %23LxsCiudadanxsQueremos'
 #support
 support_enabled: false
 
+#partners
+partners: true
+
 # build settings
 markdown: kramdown
 
@@ -26,4 +29,6 @@ herokuapp: '//api.agendatransparencia.cl/proposals'
 
 collections:
   cards:
+    output: true
+  partners:
     output: true

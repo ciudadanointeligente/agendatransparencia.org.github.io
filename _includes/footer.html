@@ -7,13 +7,14 @@
         </ul>
       </div>
       <div class="col-md-8">
+        {% if site.partners %}
         Un proyecto de:
         <ul class="list-inline">
-          <li><img src="{{ site.baseurl }}/img/logos-ata/ACIJ_logo.jpg" class="img-responsive"></li>
-          <li><img src="{{ site.baseurl }}/img/logos-ata/ADC_logo.jpg" class="img-responsive"></li>
-          <li><img src="{{ site.baseurl }}/img/logos-ata/FDL_logo.PNG" class="img-responsive"></li>
-          <li><img src="{{ site.baseurl }}/img/logos-ata/PC_logo.jpg" class="img-responsive"></li>
+          {% for partner in site.partners %}
+          <li><a href="{{ partner.website }}" target="_blank"><img src="{{ partner.logo_url }}" class="img-responsive" title="{{ partner.name }}"></a></li>
+          {% endfor %}
         </ul>
+        {% endif %}
       </div>
       <div class="col-md-2">
         <ul class="list-unstyled">
