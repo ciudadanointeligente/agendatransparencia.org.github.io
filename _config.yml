@@ -11,9 +11,9 @@ texto_que_remata:  Agenda de Transparencia para Argentina
 texto_bajada: 'Enterate por qué estas 12 políticas de reforma son indispensables para avanzar hacia un sistema político más democrático.'
 
 # social
-hashtag: AgendaTransparencia
+hashtags: "AgendaTransparencia,transparencia"
 twitter_username: ciudadanoi
-twitter_txt: '👦👧👨👩👴👵'
+twitter_txt: '👦👧👨👩👴👵 %23LxsCiudadanxsQueremos'
 
 #support
 support_enabled: false
