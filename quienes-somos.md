@@ -5,7 +5,7 @@ layout: default
 <section id="manifesto" class="container">
   <ul class="share-btn list-inline">
     <li class="text-center">
-      <a class="twitter-share-button btn btn-primary btn-xs" onclick="window.open('https://twitter.com/intent/tweet?via=ciudadanoi&url={{ site.baseurl | url_param_escape }}&text={{ site.description }}','_blank','height=400,width=300')"><i class="fa fa-twitter"></i> Twittear</a>
+      <a class="twitter-share-button btn btn-primary btn-xs" onclick="window.open('//twitter.com/intent/tweet?via={{ site.twitter_username }}&url={{ site.baseurl | url_param_escape }}&text={{ site.description }}','_blank','height=300,width=600')"><i class="fa fa-twitter"></i> Twittear</a>
     </li>
     <li class="fb-share-button" data-href="{{ site.baseurl }}" data-layout="button"></li>
   </ul>
