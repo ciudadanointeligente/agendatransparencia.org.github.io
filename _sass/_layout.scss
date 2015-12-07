@@ -677,6 +677,7 @@ ul.nav.nav-pills {
 
 .nav>li>a:hover, .nav>li>a:focus {
   box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+  background-color: $orange;
 }
 
 /* -------------------- Buttons -------------------- */
@@ -1074,14 +1075,14 @@ span.paring {
 /* Chrome, Safari, Opera */
 @-webkit-keyframes border-color {
     0%   {border-color: $red}
-    50%  {border-color: $red}
+    50%  {border-color: $purple}
     100%   {border-color: $red}
 }
 
 /* Standard syntax */
 @keyframes border-color {
     0%   {border-color: $red}
-    50%  {border-color: $red}
+    50%  {border-color: $purple}
     100%   {border-color: $red}
 }
 
@@ -1152,14 +1153,14 @@ span.paring {
 /* Chrome, Safari, Opera */
 @-webkit-keyframes change-width {
     0%   {background-color: $red}
-    50%  {background-color: $red}
+    50%  {background-color: $purple}
     100%   {background-color: $red}
 }
 
 /* Standard syntax */
 @keyframes change-width {
     0%   {background-color: $red}
-    50%  {background-color: $red}
+    50%  {background-color: $purple}
     100%   {background-color: $red}
 }
 
@@ -1319,8 +1320,14 @@ h2.hero {
         display: inline-block;
         margin-top: 0px;
     }
+    .row.footer{
+       margin-top: 40px;
+       margin-bottom: 40px;
+       text-align: center;
+    }
 
-    .logo-fci {
-      display: none;
+    .logo-fci{
+      margin-top: 40px;
+      text-align: center;
     }
 }
