@@ -1,7 +1,7 @@
 # site settings
-title: Agenda transparencia
-email: prensa@agendatransparencia.org
-email_subject: Prensa de agendatransparencia.org
+title: Agenda de Transparencia
+email: info@directoriolegislativo.org
+email_subject: Agenda de Transparencia
 baseurl: 'http://agendatransparencia.org' #example: '/agendatransparencia'
 basedomain: agendatransparencia.org #ciudadanointeligente.github.io
 analytics: 'UA-41822715-10'
@@ -10,7 +10,7 @@ texto_que_remata:  Agenda de Transparencia para Argentina
 texto_bajada: 'Enterate por qué estas 12 políticas de reforma son indispensables para avanzar hacia un sistema político más democrático.'
 
 # social
-hashtags: "AgendaTransparencia,transparencia"
+hashtags: "AgendaDeTransparencia,Transparencia"
 twitter_username:
 twitter_txt: '👦👧👨👩👴👵 %23LxsCiudadanxsQueremos'
 
