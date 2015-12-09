@@ -10,10 +10,7 @@ Las 12 propuestas que presentamos son aquellas que consideramos prioritarias par
 
 
 
-
+{% assign list = true %}
 <ul class="list-inline">
-	<li><img src="{{ site.baseurl }}/img/logos-ata/ACIJ_logo.jpg"></li>
-	<li><img src="{{ site.baseurl }}/img/logos-ata/ADC_logo.jpg"></li>
-	<li><img src="{{ site.baseurl }}/img/logos-ata/FDL_logo.PNG"></li>
-	<li><img src="{{ site.baseurl }}/img/logos-ata/PC_logo.jpg"></li>
+{% include partners.html %}
 </ul>

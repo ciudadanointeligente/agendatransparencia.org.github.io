@@ -1,0 +1,5 @@
+{% for partner in site.partners %}
+{% if list %}<li>{% endif %}<a href="{{ partner.website }}" target="_blank">
+<img src="{{ partner.logo_url }}" title="{{ partner.name }}">{% if list %}</li>{% endif %}
+</a>
+{% endfor %}

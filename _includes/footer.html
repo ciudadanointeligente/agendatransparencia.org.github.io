@@ -3,11 +3,7 @@
     <div class="row footer">
       <div class="col-md-9">
         <p>Un proyecto de</p>
-          {% for partner in site.partners %}
-          <a href="{{ partner.website }}" target="_blank">
-            <img src="{{ site.baseurl }}{{ partner.logo_url }}" title="{{ partner.name }}">
-          </a>
-          {% endfor %}
+          {% include partners.html %}
       </div>
       <div class="col-md-3 logo-fci">
         <ul class="list-unstyled">
