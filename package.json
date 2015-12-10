@@ -1,0 +1,25 @@
+{
+  "name": "agendatransparencia",
+  "version": "0.0.0",
+  "description": "agendatransparencia",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-jekyll": "~0.0.0"
+  },
+  "devDependencies": {
+    "gulp-jekyll": "0.0.0",
+    "gulp": "~3.9.0"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ciudadanointeligente/AgendaTransparenciaDirectorioLegislativo.git"
+  },
+  "author": "Ciudadano Inteligente",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/ciudadanointeligente/AgendaTransparenciaDirectorioLegislativo/issues"
+  }
+}
