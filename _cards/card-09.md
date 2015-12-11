@@ -7,7 +7,7 @@ importance:
   - txt: No existe una Ley Nacional de Acceso a la Información Pública que obligue al Poder Legislativo a publicar información sobre su gestión y proceso legislativo.
   - txt: Al ser el Congreso el órgano que nuclea a diversos partidos políticos, resulta indispensable que rinda cuentas y brinde información a todos los ciudadanos sobre sus actividades.
   - txt: Tanto la Cámara de Diputados como el Senado no responden los pedidos de acceso a la información pública de periodistas y organizaciones de la sociedad civil.
-  - txt: Ambas Cámaras del Congreso se encuentran en un proceso judicial por negar el acceso a información pública a 4 ONGs.
+  - txt: Ambas Cámaras del Congreso se encuentran en un proceso judicial por negar el acceso a información pública a 4 OSC.
 proposals:
   - txt: Publicación de la ejecución presupuestaria actualizada de forma regular; del listado de empleados legislativos; de las resoluciones administrativas internas; de los canjes de pasajes; de las becas y subsidios otorgados por los legisladores; entre otros.
   - txt: Garantía del libre acceso a las reuniones de comisión y sesiones plenarias en todos los casos.
@@ -18,8 +18,8 @@ permalink: /congreso-abierto.html
 twitter_img: /img/card09.png
 ---
 
-* A pesar de que el presidente de la Cámara de Diputados, Julián Domínguez, firmó una Carta Compromisos con 4 ONGs, no se han cumplido ninguno de los 5 puntos allí estipulados.
-* Organizaciones de la sociedad civil y en conjunto con legisladores de diversos bloques parlamentarios, presentaron una propuesta de Reglamento Interno de Acceso a la Información Pública (a falta de ley nacional), pero el mismo no avanzó.
+* A pesar de que el presidente de la Cámara de Diputados, Julián Domínguez, firmó una Carta Compromisos con 4 OSC, no se han cumplido ninguno de los 5 puntos allí estipulados.
+* Organizaciones de la sociedad civil, en conjunto con legisladores de diversos bloques parlamentarios, presentaron una propuesta de Reglamento Interno de Acceso a la Información Pública (a falta de ley nacional), pero el mismo no avanzó.
 * El Congreso Argentino obtuvo una muy baja calificación (7° de 9 Congresos) en el Índice Latinoamericano de Transparencia Legislativa.
 * Declaración de Transparencia Parlamentaria [ver acá](http://openingparliament.s3.amazonaws.com/docs/declaration/1.0/spanish.pdf)
 * Índice Latinoamericano de Transparencia Legislativa [ver acá](http://indice2014.transparencialegislativa.org/)
