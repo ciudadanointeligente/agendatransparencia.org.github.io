@@ -19,7 +19,6 @@ proposals:
 details: true
 permalink: /reforma-electoral.html
 twitter_img: /img/card03.png
-
 ---
 * Si bien existen varios proyectos de ley al respecto, el debate se encuentra suspendido.
 * Se observa cierto consenso entre los actores políticos, incluyendo la Justicia Electoral, en relación a que es necesaria una reforma electoral que resuelva estos problemas.
