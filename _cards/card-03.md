@@ -8,7 +8,7 @@ importance:
   - txt: La boleta múltiple a cargo de los partidos políticos se ha vuelto obsoleta. Muchos partidos no logran proveer de boletas en todo el territorio nacional, lo cual genera complicaciones para ellos y frustración para los votantes.
   - txt: El Poder Ejecutivo, a través de la Dirección Nacional Electoral, concentra cada vez más competencias electorales, a pesar de que estas deberían estar en cabeza de la Justicia Nacional Electoral.
   - txt: El financiamiento de los partidos carece de los controles debidos. Las campañas se extienden por fuera de lo establecido por ley y en general se desconoce de dónde surgen los aportes que las sostienen.
-  - txt: Si bien se publican los telegramas del escrutinio provisorio, la Justicia Electoral no publica en la actualidad las actas oficiales de escrutinio, lo cual imposibilita el traceo y seguimiento completo de los resultados.
+  - txt: Si bien se publican los telegramas del escrutinio provisorio, la Justicia Electoral no publica en la actualidad las actas oficiales de escrutinio, lo cual imposibilita el seguimiento completo de los resultados.
 proposals:
   - txt: Discusión plural, mediante un proceso colaborativo en el cual se garantice la participación de todos los actores clave.
   - txt: Modificación del instrumento de sufragio: paso a un sistema de boleta única, cuya modalidad debe ser definida a partir del debate propuesto en el punto anterior.
