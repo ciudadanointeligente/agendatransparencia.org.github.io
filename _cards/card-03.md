@@ -2,7 +2,7 @@
 layout: card-view
 status: Pendiente
 id: 03
-title: Reforma electoral
+title: <strong>Reforma electoral</strong>
 importance:
   - txt: El sistema electoral argentino presenta falencias que necesitan ser resueltas para garantizar la legitimidad de los resultados.
   - txt: La boleta múltiple a cargo de los partidos políticos se ha vuelto obsoleta. Los partidos no logran cubrir el territorio nacional, lo cual genera complicaciones para ellos y frustración para los votantes.
