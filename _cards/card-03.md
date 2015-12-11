@@ -11,7 +11,7 @@ importance:
   - txt: Si bien se publican los telegramas del escrutinio provisorio, la Justicia Electoral no publica en la actualidad las actas oficiales de escrutinio, lo cual imposibilita el seguimiento completo de los resultados.
 proposals:
   - txt: Discusión plural, mediante un proceso colaborativo en el cual se garantice la participación de todos los actores clave.
-  - txt: Modificación del instrumento de sufragio: paso a un sistema de boleta única, cuya modalidad debe ser definida a partir del debate propuesto en el punto anterior.
+  - txt: "Modificación del instrumento de sufragio: paso a un sistema de boleta única, cuya modalidad debe ser definida a partir del debate propuesto en el punto anterior."
   - txt: Discusión en torno a la creación de un órgano electoral independiente.
   - txt: Regulación del uso de los recursos públicos para evitar su utilización indebida de parte de los oficialismos.
   - txt: Reforma de la Ley de Financiamiento de los Partidos Políticos.
