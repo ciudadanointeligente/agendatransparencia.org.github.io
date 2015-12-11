@@ -2,7 +2,7 @@
 layout: card-view
 status: Estancado
 id: 06
-title: Independencia de los Organismos de Control
+title: <b>Organismos de Control</b>
 importance:
   - txt: La Sindicatura General de la Nación dejó de publicar en 2010 los informes de Control de Gobierno y retiró de su página web aquellos publicados.
   - txt: La Auditoría General de la Nación se encuentra impedida de realizar controles en tiempo real, sus informes no tienen fuerza sancionatoria y son tratados con excesiva demora por la Comisión Bicameral Mixta Revisora de Cuentas del Poder Legislativo.
