@@ -22,4 +22,4 @@ twitter_img: /img/card10.png
 
 * Hoy en día el escalafón oficial del empleo público (SINEP) abarca solamente el 7% de la Administración Pública Nacional y continúan conviviendo en la burocracia más de cincuenta escalafones y otros tantos regímenes laborales. Esta complejidad y dispersión atentan contra una estructura homogénea y eficiente. 
 * Iacoviello, Mercedes y Sebastián Essayag. 2011. “El desafío de profesionalizar la función pública en América Latina“. [ver acá](https://mercedesiacoviello.files.wordpress.com/2014/07/iacoessaypnud2011.pdf)
-* Oszlak, Oscar. 2013. “La gestión pública post-NGP en America Latina: Balances y desafíos pendientes” [ver acá](http://www.oscaroszlak.org.ar/images/articulos-espanol/La%20Gestion%20Publica%20postNGP.pdf)
+* Oszlak, Oscar. 2013. “La gestión pública post-NGP en América Latina: Balances y desafíos pendientes” [ver acá](http://www.oscaroszlak.org.ar/images/articulos-espanol/La%20Gestion%20Publica%20postNGP.pdf)
