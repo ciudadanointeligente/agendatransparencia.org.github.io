@@ -2,7 +2,7 @@
 layout: card-view
 status: Pendiente
 id: 07
-title: Gobierno Abierto
+title: <b>Gobierno Abierto</b>
 importance:
   - txt: Argentina ingresó en 2012 a la Alianza para el Gobierno Abierto, y aún no se ven cambios sustanciales a raíz de su participación.
   - txt: La Coordinación de Gobierno Abierto, dependiente de la Subsecretaría de Tecnologías de Gestión, carece de jerarquía institucional y presupuesto propio para llevar adelante políticas activas de gobierno abierto.
