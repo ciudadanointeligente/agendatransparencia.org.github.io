@@ -2,7 +2,7 @@
 layout: card-view 
 status: Estancado
 id: 04
-title: Regulación de la publicidad oficial
+title: <strong>Regulación de la publicidad oficial>/strong>
 importance:
   - txt: La discrecionalidad en el reparto publicitario incentiva un sistema de premios/castigos mediante el cual el gobierno de turno beneficia a medios afines y penaliza a los que considera “opositores”. Esto constituye una amenaza la libertad de expresión.
   - txt: Se observa una clara utilización de la publicidad oficial con fines electorales, promoviendo el voto o favoreciendo la imagen de ciertos funcionarios en detrimento de otros. 
