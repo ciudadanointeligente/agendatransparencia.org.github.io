@@ -12,7 +12,7 @@ importance:
 proposals:
   - txt: Sanción de una Ley Nacional de Acceso a la Información Pública, que respete los estándares internacionales en la materia.
   - txt: Generación de espacios de debate y participación de diversos sectores de la sociedad para el consenso del texto de la normativa.
-  - txt: Creación de un Órgano Garante de acceso a la información pública autónomo y autárquico.
+  - txt: Creación de un órgano garante de acceso a la información pública autónomo y autárquico.
   - txt: Implementación de políticas de transparencia activa y producción de información accesible, en formato abierto y reutilizable.
 details: true
 permalink: /ley-acceso.html
@@ -25,3 +25,4 @@ twitter_img: /img/card01.png
 * Instructivo de Acceso a la Información Pública [ver acá](http://poderciudadano.org/wp-content/uploads/2015/10/Acceso-a-la-informaci%C3%B3n-Instructivo.pdf)
 * Ley Modelo Interamericana de Acceso a la Información Pública [ver acá](http://www.oas.org/es/sla/ddi/docs/AG-RES_2607_XL-O-10_esp.pdf)
 * Historia del acceso a la información pública en Argentina [ver acá](http://timemapper.okfnlabs.org/jkeserue/foi-timeline-argentina4#14)
+* Informe sobre acceso a la información pública (ACIJ) [ver acá](http://es.scribd.com/doc/144477085/Informe-FINAL)
