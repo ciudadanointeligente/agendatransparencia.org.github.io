@@ -33,3 +33,4 @@ twitter_img: /img/card05.png
 * 10 puntos urgentes para anticorrupción en Argentina - ACIJ (2014) [ver acá](http://acij.org.ar/blog/2014/12/09/proponemos-10-puntos-urgentes-para-la-agenda-anticorrupcion-en-argentina/)
 * Protección de testigos y denunciantes de delitos de corrupción [ver acá](http://poderciudadano.org/wp-content/uploads/2014/06/Protecci%C3%B3n-de-testigos2014.pdf)
 * Los procesos judiciales en materia de corrupción [ver acá](http://acij.org.ar/sin-corrupcion/2012/wp-content/uploads/2012/09/105040827-09-2012-Informe-Final-Arreglado.pdf)
+* El problema de las declaraciones juradas en Argentina - ACIJ y Contadores Forenses (video) [ver acá](https://www.youtube.com/watch?v=CgoREZv5tT4)
