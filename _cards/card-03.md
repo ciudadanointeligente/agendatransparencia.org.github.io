@@ -5,7 +5,7 @@ id: 03
 title: <strong>Reforma electoral</strong>
 importance:
   - txt: El sistema electoral argentino presenta falencias que necesitan ser resueltas para garantizar mayor transparencia.
-  - txt: La boleta múltiple a cargo de los partidos políticos se ha vuelto obsoleta. Muchos partidos no logran proveer de boletas  en todo el territorio nacional, lo cual genera complicaciones para ellos y frustración para los votantes.
+  - txt: La boleta múltiple a cargo de los partidos políticos se ha vuelto obsoleta. Muchos partidos no logran proveer de boletas en todo el territorio nacional, lo cual genera complicaciones para ellos y frustración para los votantes.
   - txt: El Poder Ejecutivo, a través de la Dirección Nacional Electoral, concentra cada vez más competencias electorales, a pesar de que estas deberían estar en cabeza de la Justicia Nacional Electoral.
   - txt: El financiamiento de los partidos carece de los controles debidos. Las campañas se extienden por fuera de lo establecido por ley y en general se desconoce de dónde surgen los aportes que las sostienen.
   - txt: Si bien se publican los telegramas del escrutinio provisorio, la Justicia Electoral no publica en la actualidad las actas oficiales de escrutinio, lo cual imposibilita el traceo y seguimiento completo de los resultados.
@@ -20,6 +20,7 @@ details: true
 permalink: /reforma-electoral.html
 twitter_img: /img/card03.png
 ---
+
 * Si bien existen varios proyectos de ley al respecto, el debate se encuentra suspendido.
 * Se observa cierto consenso entre los actores políticos, incluyendo la Justicia Electoral, en relación a que es necesaria una reforma electoral que resuelva estos problemas.
 * Los desafíos de la transparencia en el financiamiento político en Argentina [ver acá](http://www.poderciudadano.org/libros/Informefinanciamiento-PoderCiudadano.pdf)
