@@ -6,7 +6,6 @@ title: <b>Transparencia Presupuestaria</b>
 importance:
   - txt: La falta de transparencia presupuestaria dificulta conocer en qué gasta los recursos el Estado.
   - txt: Todas las etapas del ciclo presupuestario (elaboración, aprobación, ejecución y control) son realizadas sin participación ciudadana, y la información publicada en cada una de ellas es limitada y poco accesible.
-  - txt: Todas las etapas del ciclo presupuestario (elaboración, aprobación, ejecución y control) son realizadas sin participación ciudadana, y la información publicada en cada una de ellas es limitada y poco accesible.
   - txt: La Ley de Administración Financiera faculta al Jefe de Gabinete de Ministros de la Nación a reasignar partidas presupuestarias, lo cual permite al Poder Ejecutivo decidir discrecionalmente el gasto, ignorando lo decidido por el Congreso
 proposals:
   - txt: Reforma de la Ley de Administración financiera y eliminar las facultades de reasignación presupuestaria del Jefe de Gabinete de Ministros
