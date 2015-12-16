@@ -2,7 +2,7 @@
 layout: card-view
 status: Estancado
 id: 09
-title: <b>Congreso Abierto</b>
+title: Congreso Abierto
 importance:
   - txt: No existe una Ley Nacional de Acceso a la Información Pública que obligue al Poder Legislativo a publicar información sobre su gestión y proceso legislativo.
   - txt: Al ser el Congreso el órgano que nuclea a diversos partidos políticos, resulta indispensable que rinda cuentas y brinde información a todos los ciudadanos sobre sus actividades.

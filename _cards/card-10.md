@@ -2,7 +2,7 @@
 layout: card-view
 status: Estancado
 id: 10
-title: <b>Integridad del Sistema de Empleo Público</b>
+title: Integridad del Sistema de Empleo Público
 importance:
   - txt: La organización actual de la administración pública nacional obstaculiza la construcción de un aparato estatal moderno y eficiente, con herramientas de formación y perfeccionamiento, bien remunerado y que deba rendir cuentas de su desempeño. 
   - txt: Las contrataciones directas con intereses políticos son moneda corriente en la administración pública. Esto genera “burocracias paralelas”, lo cual desaprovecha conocimiento instalado y duplica salarios y puestos. 

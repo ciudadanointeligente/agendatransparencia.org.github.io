@@ -2,7 +2,7 @@
 layout: card-view
 status: Estancado
 id: 08
-title: <b>Transparencia del Sistema de Compras y Contrataciones Públicas</b>
+title: Transparencia del Sistema de Compras y Contrataciones Públicas
 importance:
   - txt: Existe un abuso en la utilización de mecanismos de compra y contratación alternativo a la licitación pública, como la compra directa. 
   - txt: Esto hace al sistema poco transparente, al incrementar los niveles de discrecionalidad y  reducir la publicidad de los actos, lo cual habitualmente deriva en contrataciones más costosas para el Estado.

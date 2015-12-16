@@ -2,7 +2,7 @@
 layout: card-view
 status: Estancado
 id: 05
-title: <strong>Lucha contra la corrupción</strong>
+title: Lucha contra la corrupción
 importance:
   - txt: La última reforma al régimen de presentación de declaraciones juradas patrimoniales (DDJJ) redujo la cantidad de información accesible públicamente, necesaria para detectar actos de corrupción.
   - txt: Es dificil acceder a las DDJJ online de los Poderes Ejecutivo y Legislativo, y las del Poder Judicial no se encuentran publicadas.

@@ -2,7 +2,7 @@
 layout: card-view
 status: Pendiente
 id: 12
-title: <b>Transparencia Presupuestaria</b>
+title: Transparencia Presupuestaria
 importance:
   - txt: La falta de transparencia presupuestaria dificulta conocer en qué gasta los recursos el Estado.
   - txt: Todas las etapas del ciclo presupuestario (elaboración, aprobación, ejecución y control) son realizadas sin participación ciudadana, y la información publicada en cada una de ellas es limitada y poco accesible.

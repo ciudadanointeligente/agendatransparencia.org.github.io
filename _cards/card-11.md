@@ -2,7 +2,7 @@
 layout: card-view
 status: Pendiente
 id: 11
-title: <b>Reforma del Sistema Nacional de Estadísticas</b>
+title: Reforma del Sistema Nacional de Estadísticas
 importance:
   - txt: Las estadísticas oficiales constituyen información pública en los términos de la Constitución Nacional y los Tratados Internacionales de Derechos Humanos, y por lo tanto debe ser fiable, clara y accesible.
   - txt: Son insumos esenciales para el diseño, implementación y evaluación de las políticas públicas. 
