@@ -1,7 +1,7 @@
 ---
 layout: card-view
 status: Pendiente
-id: 02
+id: 04
 title: Independencia del Poder Judicial
 importance:
   - txt: La integración actual del Consejo de la Magistratura es desequilibrada, permitiendo la preeminencia de un sector sobre el resto, lo cual puede obstaculizar su independencia.
