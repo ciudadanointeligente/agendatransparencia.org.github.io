@@ -1,7 +1,7 @@
 ---
 layout: card-view
-status: Urgente
-urgency: urgente
+status: Misión Cumplida
+urgency: Misión Cumplida
 id: 01
 title: Ley de Acceso a la Información Pública
 importance:
@@ -26,3 +26,4 @@ twitter_img: /img/card01.png
 * Ley Modelo Interamericana de Acceso a la Información Pública [ver acá](http://www.oas.org/es/sla/ddi/docs/AG-RES_2607_XL-O-10_esp.pdf)
 * Historia del acceso a la información pública en Argentina [ver acá](http://timemapper.okfnlabs.org/jkeserue/foi-timeline-argentina4#14)
 * Informe sobre acceso a la información pública (ACIJ) [ver acá](http://es.scribd.com/doc/144477085/Informe-FINAL)
+* Ley 27.275 de Libre Acceso a la Información Pública, promulgada el 28 de septiembre de 2016 [ver acá](http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm)
