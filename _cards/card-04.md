@@ -1,6 +1,6 @@
 ---
-layout: Urgente 
-status: Urgente
+layout: card-view 
+status: Estancado
 id: 04
 title: Regulación de la publicidad oficial
 importance:
