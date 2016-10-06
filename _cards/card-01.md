@@ -2,7 +2,7 @@
 layout: card-view
 status: Misión Cumplida
 urgency: Misión Cumplida
-id: 01
+uid: 01
 title: Ley de Acceso a la Información Pública
 importance:
   - txt: Sólo 3 países en América Latina no cuentan con una Ley Nacional de Acceso a la Información Pública.
@@ -24,4 +24,4 @@ twitter_img: /img/card01.png
 * Historia del acceso a la información pública en Argentina [ver acá](http://timemapper.okfnlabs.org/jkeserue/foi-timeline-argentina4#14)
 * Informe sobre acceso a la información pública (ACIJ) [ver acá](http://es.scribd.com/doc/144477085/Informe-FINAL)
 * [Ley 27.275](http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm) de Libre Acceso a la Información Pública, promulgada el 28 de septiembre de 2016
-* Campaña de organizaciones de la sociedad civil por la indpendencia del órgano de control 
+* Campaña de organizaciones de la sociedad civil por la indpendencia del órgano de control

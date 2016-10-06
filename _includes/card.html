@@ -39,7 +39,7 @@
 
     <div class="card-description">
       {% if card.details %}
-        <a href="#" data-toggle="modal" data-target="#myModal-{{ card.id }}">Más info</a>
+        <a href="#" data-toggle="modal" data-target="#myModal-{{ card.uid }}">Más info</a>
       {% endif %}
       <h3>
       <strong>{{ card.title }}</strong>
@@ -48,7 +48,7 @@
         <a class="twitter-share-button btn btn-primary btn-xs" onclick="window.open('//twitter.com/intent/tweet?{% if site.twitter_username %}via={{ site.twitter_username }}&{% endif %}url={{ site.baseurl | append: card.permalink | url_param_escape }}&hashtags={{ site.hashtags }}&text={{ site.twitter_txt }} {{ card.title }}','_blank','height=300,width=600')"><i class="fa fa-twitter"></i> Twittea</a>
       </div>
 
-      <div class="collapse" id="collapse-{{ card.id }}">
+      <div class="collapse" id="collapse-{{ card.uid }}">
         <div>
             <h5>¿Por qué es importante?</h5>
             {% for quote in card.importance %}
@@ -67,7 +67,7 @@
           </div>
 
         <div class="text-right btn-knowmore">
-          <a class="btn btn-success" role="button" data-toggle="collapse" href="#collapse-{{ card.id }}" aria-expanded="false" aria-controls="collapseExample">Saber más</a>
+          <a class="btn btn-success" role="button" data-toggle="collapse" href="#collapse-{{ card.uid }}" aria-expanded="false" aria-controls="collapseExample">Saber más</a>
         </div>
       </div>
   </div>

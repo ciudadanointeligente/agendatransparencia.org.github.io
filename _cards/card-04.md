@@ -1,17 +1,17 @@
 ---
-layout: card-view 
+layout: card-view
 status: Estancado
-id: 04
+uid: 04
 title: Regulación de la publicidad oficial
 importance:
   - txt: La discrecionalidad en el reparto publicitario incentiva un sistema de premios/castigos mediante el cual un gobierno puede beneficiar a medios afines y penalizar a los que considera opositores. Esto constituye una amenaza a la libertad de expresión.
-  - txt: Es habitual  la utilización de la publicidad oficial con fines electoralistas, con el fin de  promover el voto o favorecer la imagen de ciertos funcionarios en detrimento de otros. 
+  - txt: Es habitual  la utilización de la publicidad oficial con fines electoralistas, con el fin de  promover el voto o favorecer la imagen de ciertos funcionarios en detrimento de otros.
   - txt: Esto atenta contra la equidad de la competencia electoral y constituye un claro uso ilegal de los recursos públicos.
 proposals:
   - txt: Sanción de una normativa en todos los niveles de gobierno que limite la asignación discrecional de los recursos.
   - txt: Restricción de la publicidad oficial en tiempos de campaña.
   - txt: Prohibición de la utilización de colores partidarios para imagen institucional, así como también la imagen y nombre del funcionario.
-  - txt: Establecimiento de procesos de contratación de pauta oficial que sean abiertos, transparentes y no discrecionales. 
+  - txt: Establecimiento de procesos de contratación de pauta oficial que sean abiertos, transparentes y no discrecionales.
   - txt: Garantía de acceso a la información pública en la materia mediante la publicación de informes de rendición de cuentas de forma periódica.
 details: true
 permalink: /publicidad-oficial.html

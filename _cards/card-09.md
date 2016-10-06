@@ -1,7 +1,7 @@
 ---
 layout: card-view
 status: Estancado
-id: 09
+uid: 09
 title: Congreso Abierto
 importance:
   - txt: No existe una Ley Nacional de Acceso a la Información Pública que obligue al Poder Legislativo a publicar información sobre su gestión y proceso legislativo.

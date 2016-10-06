@@ -1,7 +1,7 @@
 ---
 layout: card-view
 status: Pendiente
-id: 03
+uid: 03
 title: Reforma electoral
 importance:
   - txt: El sistema electoral argentino presenta falencias que necesitan ser resueltas para garantizar mayor transparencia.

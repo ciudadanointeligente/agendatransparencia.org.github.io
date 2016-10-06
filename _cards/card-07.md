@@ -1,7 +1,7 @@
 ---
 layout: card-view
 status: Pendiente
-id: 07
+uid: 07
 title: Gobierno Abierto
 importance:
   - txt: Argentina ingresó en 2012 a la Alianza para el Gobierno Abierto, y aún no se ven cambios sustanciales a raíz de su participación.
