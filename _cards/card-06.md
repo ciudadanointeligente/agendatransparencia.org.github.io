@@ -1,6 +1,6 @@
 ---
 layout: card-view
-status: Estancado
+status: Pendiente
 uid: 06
 title: Organismos de Control
 importance:
@@ -18,6 +18,7 @@ permalink: /organismos-control.html
 twitter_img: /img/card06.png
 ---
 
+* En 2016 se conformó la Comisión Bicameral de la Defensoría del Pueblo quien se encarga de la designación del Defensor del Pueblo.
 * La Defensoría del Pueblo de la Nación es el organismo que tiene por objeto la defensa de los derechos fundamentales y el control de la administración pública. Se encuentra establecido en el artículo 86 de la Constitución Nacional y artículo 2 de la ley 24.284.
 * [Ley 24.156](http://www.infoleg.gov.ar/infolegInternet/anexos/0-4999/554/texact.htm), de Administración financiera y de los sistemas de control del sector público Nacional
 * La Defensoría del Pueblo de la Nación Argentina: Diagnóstico y recomendaciones en materia de transparencia, rendición de cuentas y apertura a la ciudadanía [ver acá](http://iniciativatpa.org/2012/wp-content/uploads/2014/09/Informe-DP-Argentina-FINAL.pdf)
