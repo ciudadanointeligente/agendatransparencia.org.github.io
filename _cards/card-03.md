@@ -1,6 +1,6 @@
 ---
 layout: card-view
-status: Pendiente
+status: Estancado
 uid: 03
 title: Reforma electoral
 importance:
@@ -21,7 +21,8 @@ permalink: /reforma-electoral.html
 twitter_img: /img/card03.png
 ---
 
-* Si bien existen varios proyectos de ley al respecto, el debate se encuentra suspendido.
+* En 2016 el Poder Ejecutivo presento un proyecto de ley que recibió media sanción por parte de la Cámara de Diputados pero que fue rechazado por el Senado. El debate se reabrirá este año pero no se llegará a implementar la reforma para las próximas elecciones.
+* Comunicado de Organizaciones Latinoamericanas de Derechos Digitales expresan preocupación por la reforma electoral argentina [ver acá] (https://adcdigital.org.ar/2016/11/02/organizaciones-latinoamericanas-de-derechos-digitales-expresan-preocupacion-por-la-reforma-electoral-argentina/)
 * Se observa cierto consenso entre los actores políticos, incluyendo la Justicia Electoral, en relación a que es necesaria una reforma electoral que resuelva estos problemas.
 * Los desafíos de la transparencia en el financiamiento político en Argentina [ver acá](http://www.poderciudadano.org/libros/Informefinanciamiento-PoderCiudadano.pdf)
 * Informe sobre financiamiento de las campañas 2015 [ver acá](http://poderciudadano.org/wp-content/uploads/2015/10/Informe-financiamiento-elecciones-generales-2015-informes-previos.pdf)
