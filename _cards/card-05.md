@@ -24,7 +24,7 @@ permalink: /lucha-corrupcion.html
 twitter_img: /img/card05.png
 ---
 
-* En 2016 se amplio la figura del arrepentido prevista por el Código Penal a los casos de corrupción, delitos contra el Código Aduanero y asociación ilícita.
+* En 2016 se amplió la figura del arrepentido prevista por el Código Penal a los casos de corrupción, delitos contra el Código Aduanero y asociación ilícita.
 * La implementación del Código Procesal Penal de la Nación depende de una ley de implementación, que recientemente ha sancionado el Congreso. No obstante, la Ley 27.150 se ha limitado a implementar el nuevo código en el ámbito de la justicia nacional con competencia en la Ciudad de Buenos Aires, y no en el ámbito de la Justicia Federal.
 * UN Convention Against Corruption Civil Society Review: Argentina 2011 [ver acá](http://acij.org.ar/blog/2012/02/13/un-convention-against-corruption-civil-society-review-argentina-2011-ingles/)
 * Retroceso en régimen de DDJJ - ACIJ y Contadores Forenses [ver acá](http://acij.org.ar/blog/2014/05/23/acij-y-contadores-forenses-advierten-grave-retroceso-en-el-acceso-a-informacion-de-las-declaraciones-juradas-de-losas-funcionariosas-publicosas/)
