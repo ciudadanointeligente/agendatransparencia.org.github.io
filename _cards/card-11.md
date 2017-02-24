@@ -18,4 +18,5 @@ permalink: /indec.html
 twitter_img: /img/card11.png
 ---
 
+* En 2016 se designaron nuevas autoridades para el INDEC y se adoptó una nueva metodología para la medición del IPC.
 * Actualmente existen proyectos para la reforma de la Ley del INDEC con el fin de dotarlo de independencia, aunque no han sido parte de la agenda parlamentaria.
