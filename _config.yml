@@ -2,7 +2,7 @@
 title: Agenda de Transparencia
 email: info@directoriolegislativo.org
 email_subject: Agenda de Transparencia
-baseurl: 'http://agendatransparencia.org' #example: '/agendatransparencia'
+baseurl: 'https://agendatransparencia.org' #example: '/agendatransparencia'
 basedomain: agendatransparencia.org #ciudadanointeligente.github.io
 analytics: 'UA-41822715-10'
 texto_introductorio: Estas son las 12 propuestas para una
